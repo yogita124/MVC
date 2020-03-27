@@ -1,0 +1,19 @@
+body {
+  background: lightgrey;
+}
+
+.img {
+  width: 100px;
+  height: 100px;
+}
+
+.card {
+  background-color: orange;
+  padding: 20px;
+}
+
+.card a {
+  text-decoration: none;
+  text-transform: capitalize;
+  color: black;
+}
